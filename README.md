@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Felipe
 
-- 💻 Desenvolvedor front-end
+- 💻 Desenvolvedor Back-End
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 
 
